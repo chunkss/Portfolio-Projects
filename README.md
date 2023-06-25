@@ -1,7 +1,7 @@
 # Portfolio-Projects
 In this section I will list Data Analytics Projects briefly describing the technology stack used to solve cases.
 
-# Netflix Case Study - 
+# Netflix Case Study - Students_data_case_file.xlsx
                       Given is the data for TV shows on Netflix. Client is trying to do some analysis. As an analyst, help it                                      with the given data points		
                       #Technology- Ms Excel
 
